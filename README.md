@@ -10,7 +10,7 @@
 
 > "No hay atajos para cualquier lugar que valga la pena." – Beverly Sills
 
-![Animación](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Animación](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1kODRnb3V4aTJxMjQ4NWEwMDFobjhlencwN2RuaDkxZDR3Y3lhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kEKcOWl8RMLde/giphy.gif)
 
 ---
 
@@ -61,9 +61,9 @@
 ### 📝 Proyectos destacados
 | Proyecto | Descripción | Tecnologías | GIF |
 |----------|-------------|-------------|------------|
-| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![Monitorización](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/the-simpsons-simpsons.gif) |
-| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![Portfolio](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/construction.gif) |
-| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![Automatización](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/automation-audio-engineer.gif) |
+| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![Monitorización](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3hlNDNyczB5bDA1OGl4aDhxajUxOTNwOWk5cmQ3aG5vbWp0MHVheSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o6MbauGIecEQCq8jS/giphy.gif) |
+| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![Portfolio](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RmN3N2ZXBla2I1czRvZDh1Mjl3OW5zd2g3aGU1aXNvZ3JrbTVheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dwmNhd5H7YAz6/giphy.gif) |
+| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![Automatización](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnYwMGpyNDBqYndjcmRybWN6cW43MTFxOGhmeW52amZteDVlY3B5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif) |
 
 ---
 
