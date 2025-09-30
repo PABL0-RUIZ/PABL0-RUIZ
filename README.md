@@ -61,9 +61,9 @@
 ### 📝 Proyectos destacados
 | Proyecto | Descripción | Tecnologías | GIF / Demo |
 |----------|-------------|-------------|------------|
-| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![Monitorización](https://raw.githubusercontent.com/PABL0-RUIZ/the-simpsons-simpsons.gif) |
-| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![Portfolio](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/portfolio.gif) |
-| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![Automatización](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/automatizacion.gif) |
+| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![Monitorización](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/the-simpsons-simpsons.gif) |
+| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![Portfolio](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/construction.gif) |
+| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![Automatización](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/automation-audio-engineer.gif) |
 
 ---
 
