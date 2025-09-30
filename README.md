@@ -59,7 +59,7 @@
 ---
 
 ### 📝 Proyectos destacados
-| Proyecto | Descripción | Tecnologías | GIF / Demo |
+| Proyecto | Descripción | Tecnologías | GIF |
 |----------|-------------|-------------|------------|
 | **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![Monitorización](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/the-simpsons-simpsons.gif) |
 | **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![Portfolio](https://raw.githubusercontent.com/PABL0-RUIZ/gifs/main/construction.gif) |
