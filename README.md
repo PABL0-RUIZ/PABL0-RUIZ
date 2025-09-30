@@ -61,9 +61,9 @@
 ### 📝 Proyectos destacados
 | Proyecto | Descripción | Tecnologías | GIF / Demo |
 |----------|-------------|-------------|------------|
-| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![GIF](https://media.tenor.com/19391050.gif) |
-| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![GIF](https://media.tenor.com/860029658504075425.gif) |
-| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![GIF](https://media.tenor.com/4119635197440998627.gif) |
+| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![GIF](https://media.tenor.com/es/view/the-simpsons-simpsons-big-brother-surveillance-monitor-gif-19391050) |
+| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![GIF](https://media.tenor.com/es/view/xcbfam-xcb-fam-xcb-lambo-corecoin-crypto-lambo-gif-860029658504075425) |
+| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![GIF](https://media.tenor.com/es/view/automation-audio-engineer-midi-daw-gif-4119635197440998627) |
 
 ---
 
