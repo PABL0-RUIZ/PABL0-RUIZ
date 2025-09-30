@@ -10,7 +10,7 @@
 
 > "No hay atajos para cualquier lugar que valga la pena." – Beverly Sills
 
-![Animación](https://tenor.com/es/view/happy-homer-simpson-excited-crazy-yay-gif-27524262)
+![Animación](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
@@ -59,14 +59,14 @@
 ---
 
 ### 📝 Proyectos destacados
-| Proyecto | Descripción | Tecnologías | 
-|----------|-------------|-------------|
-| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap |
-| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS |
-| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash |
+| Proyecto | Descripción | Tecnologías | GIF / Demo |
+|----------|-------------|-------------|------------|
+| **Monitorización de redes** | Script para analizar tráfico y detectar anomalías | Bash, Wireshark, nmap | ![GIF](https://media.tenor.com/19391050.gif) |
+| **Web Portfolio** | Página personal responsive y animada | HTML, CSS, JS | ![GIF](https://media.tenor.com/860029658504075425.gif) |
+| **Automatización de tareas** | Scripts de despliegue y backup automático | PowerShell, Bash | ![GIF](https://media.tenor.com/4119635197440998627.gif) |
 
 ---
 
 ### 📫 Contacto
 📧 pablo.ruiz.esteban.06@gmail.com  
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/pablo-ruiz-esteban-2aa574381/)) | [Instagram]([https://github.com](https://www.instagram.com/pavlo.981/))  
+[LinkedIn](https://www.linkedin.com/in/pablo-ruiz-esteban-2aa574381/) | [Instagram](https://www.instagram.com/pavlo.981/)
